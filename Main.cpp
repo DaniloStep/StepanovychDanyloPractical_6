@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
-#include <algorithm> // для std::is_sorted
-#include <stdexcept> // для std::runtime_error
-#include <string>    // для std::string
+#include <algorithm> 
+#include <stdexcept> 
+#include <string>    
 
 using namespace std;
 
